@@ -11,3 +11,13 @@ fn main() {
     println!("The square root of {} is {}", x, result);
 }
 
+// use libm::sqrt;
+//
+// fn main() {
+//
+//     let x: f64 = 2.;
+//     let result: f64 = sqrt(x);
+//
+//     println!("The square root of {} is {}", x, result);
+// }
+//
