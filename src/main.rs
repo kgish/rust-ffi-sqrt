@@ -21,3 +21,12 @@ fn main() {
 //     println!("The square root of {} is {}", x, result);
 // }
 //
+
+// fn main() {
+//
+//     let x: f64 = 2.;
+//     let result: f64 = x.sqrt();
+//
+//     println!("The square root of {} is {}", x, result);
+// }
+//
